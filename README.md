@@ -16,9 +16,6 @@ and AI-powered anomaly detection.
 - Sharpe Ratio, Drawdown, Volatility
 - Cross-market : NASDAQ vs Casablanca
 
-##  Screenshots
-[images de tes 4 pages]
-
 ##  How to Run
 pip install -r requirements.txt
 python algo_trading.py
