@@ -1,2 +1,24 @@
-# AlgoTrack_AI-Trading-Monitor
-An interactive Power BI dashboard tracking 6 real assets across US &amp; MASI markets — combining 3 algorithmic trading strategies with AI-powered anomaly detection over 2 years of market data.
+# AlgoTrack-Trading-Monitor
+AI-Powered Trading Dashboard US &amp; MASI Markets
+##  Overview
+Interactive dashboard analyzing 6 assets across 
+2 markets using 3 algorithmic trading strategies 
+and AI-powered anomaly detection.
+
+##  Tech Stack
+- Python (pandas, numpy, scikit-learn)
+- Power BI + DAX + Deneb/Vega
+- Isolation Forest
+
+##  Features
+- Momentum, RSI & Bollinger Bands signals
+- AI Anomaly Detection
+- Sharpe Ratio, Drawdown, Volatility
+- Cross-market : NASDAQ vs Casablanca
+
+##  Screenshots
+[images de tes 4 pages]
+
+##  How to Run
+pip install -r requirements.txt
+python algo_trading.py
