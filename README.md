@@ -7,7 +7,7 @@ and AI-powered anomaly detection.
 
 ##  Tech Stack
 - Python (pandas, numpy, scikit-learn)
-- Power BI + DAX + Deneb/Vega
+- Power BI + DAX 
 - Isolation Forest
 
 ##  Features
